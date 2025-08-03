@@ -27,5 +27,5 @@ This is a beginner-friendly Core Java project that simulates basic banking opera
 ├── service
 │   └── BankService.java         # Contains business logic for deposit, withdrawal, etc.
 ├── util
-│   └── InputValidator.java      # Validates user inputs (optional module)
-├── BankApp.java                 # Main application file to run the CLI
+│   └── Inpututil.java      # Validates user inputs 
+├── Main.java                 # Main application file to run the CLI
